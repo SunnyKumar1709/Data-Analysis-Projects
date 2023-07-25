@@ -4,8 +4,8 @@ Objective -
 2. How Amazon Recommend their Products to Their Customers
 3. How Amazon Choose location to Set Up Their Warehouses to store Their Products
 
-   Skills Applied - Python, Sql, Pandas, Matplotlib, Seaborn
+ Skills Applied - Python, Sql, Pandas, Matplotlib, Seaborn
 
-   Tools - Jupyter Notebook
+ Tools - Jupyter Notebook
 
 
