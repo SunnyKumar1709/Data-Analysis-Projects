@@ -5,6 +5,7 @@ Objective -
 3. How Amazon Choose location to Set Up Their Warehouses to store Their Products
 
 Skills Applied - Python, Sql, Pandas, Matplotlib, Seaborn
+
 Tools - Jupyter Notebook
 
 
